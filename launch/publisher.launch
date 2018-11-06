@@ -1,0 +1,6 @@
+<launch>
+
+    <!-- Launch the IMAGE PUBLISHER node -->
+    <node pkg="image_publisher" name="img_pub_node" type="image_publisher_node.py" required="false"/> 
+    
+</launch>
